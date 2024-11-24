@@ -34,7 +34,7 @@ Turn ON less secure apps in order to receive the emails for gmail<br>
 <br />
 
 <p align="center">
-Once you Start the script, the keylogger will track all of your keystrokes<br>
+Once you Start the script, a keylogger window will appear and track all of your keystrokes<br>
 
 ![image_alt](https://github.com/Light89byte/KeyloggerEmail/blob/08e64869cefee860a53d36693d8fc014fd92b24b/Keylogger.png)
 <br />
@@ -43,7 +43,9 @@ Once you Start the script, the keylogger will track all of your keystrokes<br>
 <p align="center">
  Hide window and run in the background<br>
  
-![image alt]()
+![image alt](https://github.com/Light89byte/KeyloggerEmail/blob/32456dca64233bcd7484483f1d187c626e10b150/Hide.png)
+![image_alt]()
+
 <br />
 <br />
 
