@@ -34,32 +34,20 @@ Turn ON less secure apps in order to receive the emails for gmail<br>
 <br />
 
 <p align="center">
-Add internal network IP Address<br>
+Once you Start the script, the keylogger will track all of your keystrokes<br>
 
-![image_alt](https://i.imgur.com/itv77qO.png)
-<br />
-<br />
-
-<p align="center">
- Creating Users with Powershell<br>
- 
-![image alt](https://github.com/Light89byte/ActiveDirectoryLab/blob/a279c24bf5eda9a0898d14e5cc318c989b0921df/Capture.PNG)
+![image_alt](https://github.com/Light89byte/KeyloggerEmail/blob/08e64869cefee860a53d36693d8fc014fd92b24b/Keylogger.png)
 <br />
 <br />
 
 <p align="center">
- Configure DHCP IP Range Scope & Subnet Mask<br>
+ Hide window and run in the background<br>
  
-![image_alt](https://i.imgur.com/mHlzb4o.png)
+![image alt]()
 <br />
 <br />
 
-<p align="center">
-Add Remote Access<br>
- 
-![image_alt](https://i.imgur.com/wfGBzuy.png)
-<br />
-<br />
+
 
 
 <!--
