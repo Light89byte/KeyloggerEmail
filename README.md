@@ -27,9 +27,9 @@ Before we get started, this is just for educational purposes only and I am not a
 <br />
 
 <p align="center">
-Add Active Directory Domain Services on "Add roles and Features" Server Manager<br>
+Turn ON less secure apps in order to receive the emails for gmail<br>
  
-![image_alt](https://i.imgur.com/eSh1KO3.png)
+![image_alt](https://github.com/Light89byte/KeyloggerEmail/blob/95e6bb8a4faa93e119b75452491f10e7e6a48471/Account%20On.png)
 <br />
 <br />
 
