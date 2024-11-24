@@ -44,13 +44,16 @@ Once you Start the script, a keylogger window will appear and track all of your 
  Hide window and run in the background<br>
  
 ![image alt](https://github.com/Light89byte/KeyloggerEmail/blob/32456dca64233bcd7484483f1d187c626e10b150/Hide.png)
-![image_alt]()
 
 <br />
 <br />
 
-
-
+<p align="center">
+Click on properties, go to bin, then you'll see the excutable. To which you can transfer to "Task Scheduler" to watch users log on.
+ 
+![image_alt](https://github.com/Light89byte/KeyloggerEmail/blob/bdd8ed6de3edddb1e148912ae968de217d3c0b40/Executable.png)
+<br />
+<br />
 
 <!--
  ```diff
